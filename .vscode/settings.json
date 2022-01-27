@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "javascript.format.enable": true,
+    "material-icon-theme.activeIconPack": "react_redux"
+}
